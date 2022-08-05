@@ -13,7 +13,7 @@ Vue.component('modal', {
 })
 
 new Vue({
-    el: '#app',
+    el: '#root',
 
     data() {
         return {
